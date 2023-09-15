@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "VmqlDd0UjI2szTl7yIlb2b+a3Kbwi9A8FDvCZpt2dbI=",
+  "Source": "SuncorCustomDialogsBot",
+  "BasePath": "_content/SuncorCustomDialogsBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SuncorCustomDialogsBot\\wwwroot",
+      "Source": "SuncorCustomDialogsBot",
+      "ContentRoot": "C:\\Users\\naxiao\\source\\repos\\OpenAI_Project_Suncor\\SuncorCustomDialogsBot\\wwwroot\\",
+      "BasePath": "_content/SuncorCustomDialogsBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\naxiao\\source\\repos\\OpenAI_Project_Suncor\\SuncorCustomDialogsBot\\wwwroot\\default.htm",
+      "SourceId": "SuncorCustomDialogsBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\naxiao\\source\\repos\\OpenAI_Project_Suncor\\SuncorCustomDialogsBot\\wwwroot\\",
+      "BasePath": "_content/SuncorCustomDialogsBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

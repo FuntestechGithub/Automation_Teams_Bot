@@ -1,0 +1,8 @@
+{
+  "Tag": "Does asset tag on pc case matches internal asset id?",
+  "Login": "Can you verify PC login?",
+  "Photo": "Can you ensure SNOW has the correct room type listed and all required photos?",
+  "Touch": "Are you sure all options on the touch panel are working as expected?",
+  "Speaker": "Can you confirm all speakers are working?",
+  "Call": "Is connection made and voice and video are acceptable?"
+}

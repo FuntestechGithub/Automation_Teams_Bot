@@ -1,0 +1,12 @@
+{
+  "short_description": "Title",
+  "description": "Ignore",
+  "business_service": "",
+  "cmdb_ci": "Configuration Item",
+  "caller_id": "Caller Username",
+  "priority": "Priority",
+  "assignment_group": "Assignment Group",
+  "category": "Category",
+  "contact_type": "Contact Type",
+  "service_offering": "Offered Service"
+}

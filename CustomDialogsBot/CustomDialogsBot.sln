@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuncorCustomDialogsBot", "SuncorCustomDialogsBot.csproj", "{EF9D6503-E6EE-4E4C-87C5-64FC4F7F17A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9D6503-E6EE-4E4C-87C5-64FC4F7F17A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9D6503-E6EE-4E4C-87C5-64FC4F7F17A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9D6503-E6EE-4E4C-87C5-64FC4F7F17A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9D6503-E6EE-4E4C-87C5-64FC4F7F17A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9637F4-2CDC-4838-9D4C-16AEA7E5B06E}
+	EndGlobalSection
+EndGlobal

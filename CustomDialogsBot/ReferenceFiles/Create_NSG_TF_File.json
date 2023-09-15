@@ -1,0 +1,52 @@
+{
+  "module": [
+    {
+      "azurerm_nsg": [
+        {
+          "app_identifier": "",
+          "enable_association": true,
+          "enable_nsg_rules": true,
+          "environment": "",
+          "nsg_rules": [
+            {
+              "access": "Allow",
+              "destination_address_prefix": "*",
+              "destination_port_range": "*",
+              "direction": "Outbound",
+              "name": "test123",
+              "priority": 201,
+              "protocol": "Tcp",
+              "source_address_prefix": "*",
+              "source_port_range": "*"
+            },
+            {
+              "access": "Allow",
+              "destination_address_prefix": "*",
+              "destination_port_range": "*",
+              "direction": "Outbound",
+              "name": "test345",
+              "priority": 202,
+              "protocol": "Tcp",
+              "source_address_prefix": "*",
+              "source_port_range": "*"
+            }
+          ],
+          "region": "westus2",
+          "resource_group": "imsqutarmrgp001",
+          "resource_index": "001",
+          "source": "git::https://github.com/SEApplicationsOrg/terraform-azurerm-nsg?ref=v1.0.0",
+          "tags": {
+            "Note": "Test",
+            "Note2": 2
+          },
+          "vnets_subnet_association": [
+            {
+              "subnet_name": "testsubnet1",
+              "vnet_name": "imsqutarmvntuw2001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
